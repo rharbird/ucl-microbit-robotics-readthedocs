@@ -7,4 +7,4 @@ Teaching students to code by using a microprocessor and embedded sensors on the 
 
 To download this documentation in pdf, epub or html format, click on the link at the bottom of the sidebar on the left.
 
-If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="readthedocs.org">Read the Docs</a>. 
+If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>. 
