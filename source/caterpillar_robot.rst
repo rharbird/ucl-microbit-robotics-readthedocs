@@ -19,13 +19,19 @@ Caterpillar on the move (Lampe, 2013)
 
 .. _ImageLink: https://www.youtube.com/watch?v=fRVGWCSij_M
 
-* https://www.youtube.com/watch?v=a9Km0edRFG4
+Or this one:
 
-You can see from the video that a wave passes along the caterpillar so we’ll
+|ImageLink|_
+
+Hairy Caterpillar, Caterpillar Moving (HowToDrawCartoons, 2011)
+
+.. |ImageLink| image:: /pictures/BlueGreenCaterpillarYouTube.jpg
+   :scale: 20 %
+
+.. _ImageLink: https://www.youtube.com/watch?v=a9Km0edRFG4
+
+You can see from the videos that a wave passes along the caterpillar so we’ll
 try to make our robot mimic that.
-
- but, as you can see from the video, a wave passes along the caterpillar so we’ll
-try to mimic that.
 
 For this project, the robot we are going to build will only have
 3 body segments, we’re going to need some power to move each segment and we
