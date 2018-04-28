@@ -37,3 +37,5 @@ For this project, the robot we are going to build will only have
 3 body segments, we’re going to need some power to move each segment and we
 will use a motor, called a servo motor to do this. We'll control the motors
 using a program written on a micro:bit.
+
+In the next section, we'll find out about motors.

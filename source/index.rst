@@ -23,6 +23,7 @@ If you would like to contribute to this documentation or create your own flavour
 
    getting_started.rst
    caterpillar_robot.rst
+   references.rst
 
 
 Indices and tables
