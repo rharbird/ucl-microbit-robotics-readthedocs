@@ -21,14 +21,14 @@ Caterpillar on the move (Lampe, 2013)
 
 Or this one:
 
-|ImageLink|_
+|AnotherImageLink|_
 
 Hairy Caterpillar, Caterpillar Moving (HowToDrawCartoons, 2011)
 
-.. |ImageLink| image:: /pictures/BlueGreenCaterpillarYouTube.jpg
+.. |AnotherImageLink| image:: /pictures/BlueGreenCaterpillarYouTube.jpg
    :scale: 20 %
 
-.. _ImageLink: https://www.youtube.com/watch?v=a9Km0edRFG4
+.. _AnotherImageLink: https://www.youtube.com/watch?v=a9Km0edRFG4
 
 You can see from the videos that a wave passes along the caterpillar so we’ll
 try to make our robot mimic that.
