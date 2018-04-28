@@ -9,7 +9,7 @@ The first thing we should do is to take a look at how a caterpillar moves. Take 
 look at these YouTube clips:
 
 .. figure:: pictures/BlackWhiteRedCaterpillarYouTube.jpg
-   :scale: 60 %
+   :scale: 20 %
 
 Source: `Caterpillar on the move (Lampe,2013) <https://www.youtube.com/watch?v=fRVGWCSij_M>`_
 
