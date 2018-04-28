@@ -8,11 +8,11 @@ We’re going to build a crawling robot that’s inspired by a caterpillar.
 The first thing we should do is to take a look at how a caterpillar moves. Take a
 look at these YouTube clips:
 
-.. figure:: pictures/BlackWhiteRedCaterpillarYouTube.jpg
-   :scale: 20 %
+ Caterpillar on the move (Lampe, 2013) |ImageLink|_
 
-Source: `Caterpillar on the move (Lampe,2013) <https://www.youtube.com/watch?v=fRVGWCSij_M>`_
-
+.. |ImageLink| image:: /pictures/BlackWhiteRedCaterpillarYouTube.jpg
+   :scale: 20 % 
+.. _ImageLink: https://www.youtube.com/watch?v=fRVGWCSij_M
 
 * https://www.youtube.com/watch?v=a9Km0edRFG4
 
