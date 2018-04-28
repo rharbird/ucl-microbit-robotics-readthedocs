@@ -18,12 +18,12 @@ To download this documentation in pdf, epub or html format, click on the link at
 If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>.
 
 .. toctree::
-   :maxdepth:1
-   :caption: Getting Started
+   :maxdepth:2
 
-   getting_started.rst
-   caterpillar_robot.rst
-   references.rst
+   getting_started
+   caterpillar_robot
+   motors
+   references
 
 
 Indices and tables
