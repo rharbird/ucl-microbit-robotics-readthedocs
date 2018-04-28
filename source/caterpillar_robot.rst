@@ -12,10 +12,10 @@ Click on the picture below:
 
 |ImageLink|_
 
-Caterpillar on the move (Lampe, 2013)
-
 .. |ImageLink| image:: /pictures/BlackWhiteRedCaterpillarYouTube.jpg
    :scale: 20 %
+
+Caterpillar on the move (Lampe, 2013)
 
 .. _ImageLink: https://www.youtube.com/watch?v=fRVGWCSij_M
 
