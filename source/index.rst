@@ -18,11 +18,12 @@ To download this documentation in pdf, epub or html format, click on the link at
 If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>.
 
 .. toctree::
-   :maxdepth:2
+   :maxdepth:1
 
    getting_started
    caterpillar_robot
    motors
+   connections
    references
 
 
