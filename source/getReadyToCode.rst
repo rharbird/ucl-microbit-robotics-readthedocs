@@ -1,6 +1,6 @@
-**********************
-Making the motors move
-**********************
+*****************
+Get ready to code
+*****************
 We will be programming the micro:bit using the makecode programming environment with some added software to drive
 the motors.
 
