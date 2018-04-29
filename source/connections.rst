@@ -22,9 +22,25 @@ Follow the steps below to make the connections but please note:
 
 **DO NOT CONNECT THE BATTERY TO YOUR KIT UNTIL YOUR CIRCUIT HAS BEEN CHECKED**
 
-Step 1: Connect the micro:bit to the PWM board
-Use 4 female to female jumper wires to connect the breakout board to the PWM board.
+*Step 1:* Connect the micro:bit to the PWM board
 
 .. image:: pictures/jumper_wires.jpg
-
 *Connecting the micro:bit to the PWM board*
+
+You will need 4 female to female jumper wires and you must connect the right
+pins together. Use this table to match up the pins.
+
++----------------------------------------+
+|            Connection Table            |
++-------------+-------------+------------+
+| Purpose     | Micro:bit   | PWM board  |
+|             | Pin Label   | Pin Label  |
++===========================+============+
+| Power       |      3V     |     VCC    |
++-------------+-------------+------------+
+| Ground      |      0V     |     GND    |
++-------------+-------------+------------+
+| Clock Line  |      19     |     SCL    |
++-------------+-------------+------------+
+| Data Line   |      20     |     SDA    |
++-------------+-------------+------------+
