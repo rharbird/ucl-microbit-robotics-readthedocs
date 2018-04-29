@@ -9,5 +9,4 @@ To start coding, open a browser, and go to this link: https://goo.gl/nKmyrn
 When you see the screen below, press the 'Edit' button.
 
 .. image:: pictures/OpenPXT.jpg
-  :scale: 200%
 *Microsoft makecode*
