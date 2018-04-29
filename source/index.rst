@@ -24,6 +24,7 @@ If you would like to contribute to this documentation or create your own flavour
    caterpillar_robot
    motors
    connections
+   code
    references
 
 
