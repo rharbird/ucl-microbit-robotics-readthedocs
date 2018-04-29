@@ -11,6 +11,7 @@ Click on the ServoBoard menu so that you can see the blocks.
 Now drag out the blocks that will set up the motors and place them in the ``on start`` jaws so that your code looks like this:
 
 .. image:: pictures/initialiseMotor.png
+  :scale: 60%
 
 --------------------
 Make the motors move
@@ -25,6 +26,6 @@ Name the variable ``angle``.
 Now you can add the rest of the code to change the angle of the motor.
 
 .. image:: pictures/buttonMove.png
-  :scale: 60%
+
 
 What happens when the angle reaches 180°? Try it out.
