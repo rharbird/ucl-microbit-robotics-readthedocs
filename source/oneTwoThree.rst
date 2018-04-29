@@ -16,9 +16,9 @@ You will notice that all of the motors are moving together at the same angle. Th
 ----------------
 Is it crawling?
 ----------------
-Now it's time for you to experiment. Make two more variables ``angle1`` and ``angle2``. Initialise the new variables in the ``start`` loop. Add more code to increase the value of ``angle1`` and ``angle2``in the ``forever`` loop and don't forget to check whether the value is greater than 180°.
+Now it's time for you to experiment. Make two more variables ``angle1`` and ``angle2`` and initialise the new variables in the ``start`` loop. Add more code to increase the value of ``angle1`` and ``angle2``in the ``forever`` loop and don't forget to check whether the value of the angle is greater than 180°.
 
 .. image:: pictures/asynchronous.png
   :scale: 60%
 
-Try it out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the way that the caterpillar crawls.
+Try it out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the way that the caterpillar crawls. 
