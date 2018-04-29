@@ -33,8 +33,8 @@ pins together. Use this table to match up the pins.
 +-------------+-------------+------------+
 |            Connection Table            |
 +=============+=============+============+
-| Purpose     | Micro:bit   | PWM board  |
-|             | Pin Label   | Pin Label  |
+| Purpose of  | Micro:bit   | PWM board  |
+| the pin     | pin label   | pin label  |
 +-------------+-------------+------------+
 | Power       |      3V     |     VCC    |
 +-------------+-------------+------------+
@@ -44,3 +44,13 @@ pins together. Use this table to match up the pins.
 +-------------+-------------+------------+
 | Data Line   |      20     |     SDA    |
 +-------------+-------------+------------+
+
+
+*Step 2:* Plug the motors into the PWM board
+
+.. image:: pictures/motorsConnectedtoPWMboard.jpg
+*Plugging the motors into the PWM board*
+
+The servo(s) should be connected to the PWM board this way round – on the left
+is a servo connected in position 0. (It’s easier if you start at 0 and work up
+if you have more servos connected).
