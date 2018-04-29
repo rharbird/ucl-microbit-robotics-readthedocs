@@ -22,8 +22,8 @@ Follow the steps below to make the connections but please note:
 
 **DO NOT CONNECT THE BATTERY TO YOUR KIT UNTIL YOUR CIRCUIT HAS BEEN CHECKED**
 
-*Step 1:* Connect the micro:bit to the PWM board
-
+Step 1: Connect the micro:bit to the PWM board
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: pictures/jumper_wires.jpg
 *Connecting the micro:bit to the PWM board*
 
@@ -46,7 +46,8 @@ pins together. Use this table to match up the pins.
 +-------------+-------------+------------+
 
 
-*Step 2:* Plug the motors into the PWM board
+Step 2: Plug the motors into the PWM board
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: pictures/motorsConnectedtoPWMboard.jpg
 *Plugging the motors into the PWM board*
