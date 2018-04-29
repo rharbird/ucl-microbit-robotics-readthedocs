@@ -1,29 +1,24 @@
-****************
-Forward and Back
-****************
-Well done, you have got the motor moving and you can see that it moves from 0° to 180° as you press the button. Now we need to change the code so that the motor moves without human intervention so that our caterpillar can crawl.
------------------------
-New code
------------------------
-We are going to move the code that we have in the ``on button A pressed`` loop into the ``forever`` loop. Any code that you put in the ``forever`` loop will keep repeating over and over, as its name suggests. Modify your code using these two steps.
+********************
+More than one motor
+********************
+You are now ready to move more than one motor. Make sure that you have all the remaining motors plugged in to the PWM board.
 
-Step 1:
-^^^^^^
-Move the code to the ``forever`` loop and delete the ``on button A pressed`` loop. Your code should now look like this:
+--------------
+Servos 1 and 2
+--------------
+So far your code just moves the motor plugged into slot 0 on the PWM board. You should add code to move the other two motors as well, like this:
 
-.. image:: pictures/forever.png
+.. image:: pictures/123.png
   :scale: 60%
 
+You will notice that all of the motors are moving together at the same angle. This is progress but the caterpillar is not going to move very far!
 
-Step 2:
-^^^^^^
-Now add a pause of 20 milliseconds at the end of the loop to give the motor a chance to move in time with the instructions it receives from the micro:bit.
+----------------
+Is it crawling?
+----------------
+Now it's time for you to experiment. Make two more variables ``angle1`` and ``angle2``. Initialise the new variables in the ``start`` loop. Add more code to increase the value of ``angle1`` and ``angle2``in the ``forever`` loop and don't forget to check whether the value is greater than 180°.
 
-
-.. image:: pictures/pause.png
+.. image:: pictures/asynchronous.png
   :scale: 60%
 
-Step 3:
-^^^^^^
-
-Try it out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with how it is working.
+Try it out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the way that the caterpillar crawls.

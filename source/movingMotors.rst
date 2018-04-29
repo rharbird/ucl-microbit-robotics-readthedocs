@@ -11,7 +11,7 @@ Click on the ServoBoard menu so that you can see the blocks.
 Now drag out the blocks that will set up the motors and place them in the ``on start`` jaws so that your code looks like this:
 
 .. image:: pictures/initialiseMotor.png
-  :scale: 60%
+  :scale: 50%
 
 --------------------
 Make the motors move
@@ -19,7 +19,7 @@ Make the motors move
 Now we will add some code to move the motor every time that you press the button. First of all we will need to keep a counter, called a variable, in which we will store the current angle of the motor. You can do that by opening the ``Variables`` menu and choosing ``Make a Variable``:
 
 .. image:: pictures/makeAVariable.png
-  :scale: 60%
+  :scale: 50%
 
 Name the variable ``angle``.
 

@@ -53,6 +53,4 @@ Step 2: Plug the motors into the PWM board
 .. image:: pictures/motorsConnectedtoPWMboard.jpg
 *Plugging the motors into the PWM board*
 
-The servo(s) should be connected to the PWM board this way round – on the left
-is a servo connected in position 0. (It’s easier if you start at 0 and work up
-if you have more servos connected).
+The servo motors should be connected to the PWM board this way round with the black wire on the outside of the board. You can see this clearly on the left where there is a servo connected in position 0. It’s easier if you start at 0 and work up. You can start off by just connecting 1 motor and add more as you use them.

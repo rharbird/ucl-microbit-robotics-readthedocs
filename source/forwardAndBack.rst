@@ -5,11 +5,11 @@ Well done, you have got the motor moving and you can see that it moves from 0° 
 -----------------------
 New code
 -----------------------
-We are going to move the code that we have in the ``on button A pressed`` loop into the ``forever`` loop. Any code that you put in the ``forever`` loop will keep repeating over and over, as its name suggests. Modify your code using these two steps.
+We are going to move some of the code around using these two steps.
 
 Step 1:
 ^^^^^^
-Move the code to the ``forever`` loop and delete the ``on button A pressed`` loop. Your code should now look like this:
+Any code that you put in the ``forever`` loop will keep repeating over and over as its name suggests. Move the code in the ``on button A pressed`` loop to the ``forever`` loop. Delete the ``on button A pressed`` loop. Your code should now look like this:
 
 .. image:: pictures/forever.png
   :scale: 60%
@@ -17,7 +17,7 @@ Move the code to the ``forever`` loop and delete the ``on button A pressed`` loo
 
 Step 2:
 ^^^^^^
-Now add a pause of 20 milliseconds at the end of the loop to give the motor a chance to move in time with the instructions it receives from the micro:bit.
+Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give the motor a chance to move.
 
 
 .. image:: pictures/pause.png
@@ -25,5 +25,4 @@ Now add a pause of 20 milliseconds at the end of the loop to give the motor a ch
 
 Step 3:
 ^^^^^^
-
-Try it out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with how it is working.
+Try the program out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the outcome.
