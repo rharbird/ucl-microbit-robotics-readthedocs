@@ -1,7 +1,9 @@
 ****************
 Forward and Back
 ****************
+
 Well done, you have got the motor moving and you can see that it moves from 0° to 180° as you press the button. Now we need to change the code so that the motor moves without human intervention so that our caterpillar can crawl.
+
 -----------------------
 New code
 -----------------------
