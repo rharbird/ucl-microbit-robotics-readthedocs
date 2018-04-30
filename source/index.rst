@@ -4,18 +4,18 @@
    contain the root `toctree` directive.
 
 
+========================
 UCL's Micro:bit Robotics
 ========================
 
-These projects are designed to give students an introduction to robots which are inspired by the natural world. There's no need to know how to code before diving in but we can assure you that, once you have, you won't want to stop.
+This project is designed to give students an introduction to robotics with a robot inspired by the natural world. There's no need to know how to code before diving in but we can assure you that once you have tried it, you won't want to stop.
 
-The first project is a Caterpillar created from 3D printed parts and servo motors with the micro:bit driving the motors to create a crawling motion. It's a real challenge and students will enjoy finding out how to make the fastest, most effective robot.
+The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`. In this guide we assume that you have already 3D printed and built your robot but if you are starting from scratch, take a look at Dr Gómez's instructions for making and building the units for the robot `here <www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>` or `here http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1`. You can use either design.
 
-Teaching students to code by using a microprocessor and embedded sensors on the board, is an approach inspired by Prof. Stephen Hailes at UCL. His team designed the Engduino, an Arduino board with sensors which was a forerunner of the BBC Micro:bit.
+.. image:: pictures/caterpillar.jpg
 
-To download this documentation in pdf, epub or html format, click on the link at the bottom of the sidebar on the left.
 
-If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>.
+
 
 .. toctree::
    :maxdepth:1
@@ -37,3 +37,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+To download this documentation in pdf, epub or html format, click on the link at the bottom of the sidebar on the left.
+
+If you would like to contribute to the documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on `ReadTheDocs <https://readthedocs.org>`.

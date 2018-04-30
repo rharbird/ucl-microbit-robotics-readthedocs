@@ -3,10 +3,9 @@ Connecting the motors to the micro:bit
 **************************************
 Although the micro:bit can drive up to 3 servo motors, we have decided to use a second board to connect the MicroBit to the servos, for two reasons:
 
-*	The micro:bit works on a 3.3V circuit, and the servos work on a circuit of
-about 5V. This means that we can’t just connect the two together anyway.
+*	The micro:bit works on a 3.3V circuit, and the servos work on a circuit of about 5V. This means that we can’t just connect the two together anyway.
 
-*	We can connect up to 16 servos to the MicroBit using an interface board – we could make a very long snake or caterpillar.
+*	We can connect up to 16 servos to the micro:bit using an interface board – we could make a very long snake or caterpillar.
 
 .. image:: pictures/microbit_breakout_pwm.jpg
 *High level view of the micro:bit, breakout board and PWM board*
