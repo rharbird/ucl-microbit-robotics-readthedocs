@@ -10,10 +10,10 @@ UCL's Micro:bit Robotics
 
 This project is designed to give students an introduction to robotics with a robot inspired by the natural world. There's no need to know how to code before diving in but we can assure you that once you have tried it, you won't want to stop.
 
-The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`. In this guide we assume that you have already 3D printed and built your robot but if you are starting from scratch, take a look at Dr Gómez's instructions for making and building the units for the robot `here <www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>` or `here http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1`. You can use either design.
+The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`. In this guide we assume that you have already 3D printed and built your robot but if you are starting from scratch, take a look at Dr Gómez's instructions for making and building the units for the robot `here www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ` or `here http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1`. You can use either design.
 
 .. image:: pictures/caterpillar.jpg
-
+  :scale: 60%
 
 
 
@@ -29,15 +29,6 @@ The robot is a caterpillar (or maybe a snake, depending on the motion style) whi
    forwardAndBack
    oneTwoThree
    references
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 
 To download this documentation in pdf, epub or html format, click on the link at the bottom of the sidebar on the left.
 

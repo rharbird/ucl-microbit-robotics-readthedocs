@@ -1,6 +1,10 @@
-**************************************
-Connecting the motors to the micro:bit
-**************************************
+**********************
+Constructing the robot
+**********************
+The robot is made from parts designed by
+
+
+
 Although the micro:bit can drive up to 3 servo motors, we have decided to use a second board to connect the MicroBit to the servos, for two reasons:
 
 *	The micro:bit works on a 3.3V circuit, and the servos work on a circuit of about 5V. This means that we can’t just connect the two together anyway.
