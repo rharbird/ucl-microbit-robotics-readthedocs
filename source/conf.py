@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'UCL Micro:bit Robotics'
-copyright = '2018, Rae Harbird'
-author = 'Rae Harbird'
+copyright = '2018, Stephen Hailes, Rae Harbird'
+author = 'Professor Stephen Hailes, Rae Harbird'
 
 # The short X.Y version
 version = ''
