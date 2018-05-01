@@ -15,7 +15,7 @@ The robot is a caterpillar (or maybe a snake, depending on the motion style) whi
 .. image:: pictures/wormy.jpg
   :scale: 40%
 
-Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_
+*Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_*
 
 You will use the micro:bit to make the robot move. `Professor Stephen Hailes <http://www.cs.ucl.ac.uk/people/S.Hailes.html/>`_ has written a servo motor library for the micro:bit to make this easier.
 

@@ -3,7 +3,7 @@ Micro:bit - Getting Started
 ****************************
 
 The BBC micro:bit is a tiny computer that you can use to create all kinds of projects from robots to musical instruments –
-the possibilities are endless. Let's take a look at the features that you can use in your designs:
+the possibilities are endless. There are a myriad of features that you can use in your designs:
 
  * 25 red LED lights that can flash messages.
  * Two programmable buttons (A and B) that can be used to tell the micro:bit when to start and stop things.
@@ -41,20 +41,15 @@ First of all you are going to write a program to display the message “Hello UC
 Write the Code
 --------------
 
-We will be programming the micro:bit using Microsoft's makecode programming environment with some added software to drive the motors.
+We will be programming the micro:bit using Microsoft's makecode programming environment with some added software to drive the motors. To start coding, open a browser, and go to this URL: `https://goo.gl/nKmyrn <https://makecode.microbit.org/_85wKMW2KM0u1>`_. When you see the screen below, press the ``Edit`` button.
 
-To start coding, open a browser, and go to this URL: `https://goo.gl/nKmyrn <https://makecode.microbit.org/_85wKMW2KM0u1>`_
-
-When you see the screen below, press the ``Edit`` button.
-
-.. image:: pictures/OpenPXT.jpg
+.. image:: pictures/OpenPXT.png
   :scale: 100%
 *Microsoft makecode*
 
-You should see a screen like the one below and you are now ready to make the micro:bit, and your robot, do something.
+You should see a screen like the one below and you are now ready to make the micro:bit, and eventally your robot, do something.
 
-.. image:: pictures/readyToCode.jpg
-
+.. image:: pictures/readyToCode.png
 
 We will use a special text editor to write our programs, it looks like the one shown here:
 
