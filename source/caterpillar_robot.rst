@@ -4,9 +4,7 @@ Caterpillar Robot
 
 Aims
 ----
-We’re going to build a crawling robot that’s inspired by a caterpillar.
-The first thing we should do is to take a look at how a caterpillar moves. Take a
-look at these YouTube clips:
+We’re going to build a crawling robot that’s inspired by a caterpillar but how does a caterpillar move? Take a look at these YouTube clips:
 
 Click on the picture below:
 
@@ -30,10 +28,6 @@ Or this one:
 
 .. _AnotherImageLink: https://www.youtube.com/watch?v=a9Km0edRFG4
 
-You can see from the videos that a wave passes along the caterpillar so we’ll
-try to make our robot mimic that.
+You can see from the videos that a wave passes along the caterpillar so we’ll try to make our robot mimic that.
 
-For this project, the robot we are going to build will only have
-3 body segments, we’re going to need some power to move each segment and we
-will use a motor, called a servo motor to do this. We'll control the motors
-using a program written on a micro:bit. In the next section, we'll find out about motors.
+For this project, the robot we are going to build will only have 3 body segments, we’re going to need some power to move each segment and we will use a motor, called a servo motor to do this. We'll control the motors using a program written on a micro:bit. In the next section, we'll find out about motors.

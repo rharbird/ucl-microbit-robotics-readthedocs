@@ -1,8 +1,8 @@
 ****************************
-Micro:bit - Getting Started 
+Micro:bit - Getting Started
 ****************************
 
-The BBC micro:bit is a tiny computer that you can use to create all kinds of projects from robots to musical instruments – 
+The BBC micro:bit is a tiny computer that you can use to create all kinds of projects from robots to musical instruments –
 the possibilities are endless. Let's take a look at the features that you can use in your designs:
 
  * 25 red LED lights that can flash messages.
@@ -17,13 +17,14 @@ the possibilities are endless. Let's take a look at the features that you can us
    :scale: 60%
    :align: center
 
-Now you will create your first micro:bit program; after that, well we've listed a few ideas but it's really up to you.
+Let's create your first micro:bit program; after that, well we've listed a few ideas but it's really up to you.
 
+===================
 Your First Program
 ===================
 Coding using the micro:bit is composed of these 4 steps. You can expect to go around the loop  quite a few times before you get your code working.
 
-.. image:: pictures/microbit_lifecycle.jpg
+.. image:: pictures/microbit_lifecycle_typescript.jpg
    :scale: 60%
    :align: center
 
@@ -39,7 +40,23 @@ First of all you are going to write a program to display the message “Hello UC
 
 Write the Code
 --------------
-We will use a special text editor to write our programs, it looks like the one shown here: 
+
+We will be programming the micro:bit using Microsoft's makecode programming environment with some added software to drive the motors.
+
+To start coding, open a browser, and go to this URL: `https://goo.gl/nKmyrn <https://makecode.microbit.org/_85wKMW2KM0u1>`_
+
+When you see the screen below, press the ``Edit`` button.
+
+.. image:: pictures/OpenPXT.jpg
+  :scale: 100%
+*Microsoft makecode*
+
+You should see a screen like the one below and you are now ready to make the micro:bit, and your robot, do something.
+
+.. image:: pictures/readyToCode.jpg
+
+
+We will use a special text editor to write our programs, it looks like the one shown here:
 
 .. image:: pictures/getting_started.jpg
    :scale: 60%
@@ -47,7 +64,7 @@ We will use a special text editor to write our programs, it looks like the one s
 
 Let's go through this line-by-line::
 
-	while True: 
+	while True:
 
 This means do something (whatever follows this statement and is indented) forever and ever and ever. This is called  a loop, it's a bit like a video clip that's stuck on repeat.  ``True`` and ``False`` have a special meaning in python. ``True`` is always, well ``True``. The rest of the program is straightforward::
 
@@ -56,10 +73,10 @@ This means do something (whatever follows this statement and is indented) foreve
 	while True:
     	    display.show('Hello UCL!')
             display.show(Image.BUTTERFLY)
-	    print('Hi There!!!')    
+	    print('Hi There!!!')
     	    sleep(2000)
-      
-This displays ``Hello UCL`` on the LED display one character at a time and then shows the butterfly. 
+
+This displays ``Hello UCL`` on the LED display one character at a time and then shows the butterfly.
 The statement ``print('Hi There!!')``, will print the message in the REPL. Press the REPL button in the menu now to show the REPL window:
 
 
@@ -67,9 +84,9 @@ The statement ``print('Hi There!!')``, will print the message in the REPL. Press
    :scale: 60%
    :align: center
 
-The REPL window shows us messages from the micro:bit and also allows us to send commands directly to the micro:bit. For now, we'll just be using the REPL to see messages that we print and error messages. 
+The REPL window shows us messages from the micro:bit and also allows us to send commands directly to the micro:bit. For now, we'll just be using the REPL to see messages that we print and error messages.
 
-You might be wondering why we've asked the 
+You might be wondering why we've asked the
 micro:bit to sleep for ``2000``! This value is in microseconds so we've really only asked it to sleep for 2 seconds. That will give us enough time to see the image before the micro:bit starts all over again.
 
 
@@ -88,7 +105,7 @@ You should see the message and the image displayed on the micro:bit and the mess
    :align: center
 
 
-Make a change 
+Make a change
 -------------
 Change the text that is displayed on the screen and make it scroll across the LED display. You can do this by changing the word ``show`` to ``scroll``. Don't forget to save your program and remember to  ``flash`` the new code to the micro:bit.
 

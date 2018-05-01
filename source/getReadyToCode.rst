@@ -5,12 +5,12 @@ We will be programming the micro:bit using the makecode programming environment 
 
 To start coding, open a browser, and go to this URL: `https://goo.gl/nKmyrn <https://makecode.microbit.org/_85wKMW2KM0u1>`_
 
-When you see the screen below, press the 'Edit' button.
+When you see the screen below, press the ``Edit`` button.
 
-.. image:: pictures/OpenPXT.jpg
+.. image:: pictures/OpenPXT.png
   :scale: 100%
 *Microsoft makecode*
 
-You should see a screen like the one below, you are now ready to code:
+You should see a screen like the one below and you are now ready to make the micro:bit, and your robot, do something.
 
-.. image:: pictures/readyToCode.jpg
+.. image:: pictures/readyToCode.png
