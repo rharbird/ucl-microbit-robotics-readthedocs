@@ -19,6 +19,10 @@ Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.
 
 You will use the micro:bit to make the robot move. `Professor Stephen Hailes <http://www.cs.ucl.ac.uk/people/S.Hailes.html/>`_ has written a servo motor library for the micro:bit to make this easier.
 
+---------
+Contents
+---------
+
 .. toctree::
    :maxdepth:1
 
