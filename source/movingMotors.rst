@@ -4,7 +4,7 @@ Moving motors
 -----------------
 Set up the motors
 -----------------
-Click on the ServoBoard menu so that you can see the blocks.
+Click on the ``ServoBoard`` menu so that you can see the blocks.
 
 .. image:: pictures/ServoBoardBlocks.png
 

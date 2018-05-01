@@ -1,8 +1,7 @@
 *****************
 Get ready to code
 *****************
-We will be programming the micro:bit using the makecode programming environment with some added software to drive
-the motors.
+We will be programming the micro:bit using the makecode programming environment with some added software to drive the motors.
 
 To start coding, open a browser, and go to this URL: `https://goo.gl/nKmyrn <https://makecode.microbit.org/_85wKMW2KM0u1>`_
 
