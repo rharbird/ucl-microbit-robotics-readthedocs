@@ -45,67 +45,28 @@ We will be programming the micro:bit using Microsoft's makecode programming envi
 
 .. image:: pictures/OpenPXT.png
   :scale: 100%
-*Microsoft makecode*
 
 You should see a screen like the one below and you are now ready to make the micro:bit, and eventally your robot, do something.
 
 .. image:: pictures/readyToCode.png
+*Microsoft makecode programming environment*
 
-We will use a special text editor to write our programs, it looks like the one shown here:
+Choose one or more of the blocks in the ``Basic`` menu by clicking on the menu.
 
-.. image:: pictures/getting_started.jpg
-   :scale: 60%
-   :align: center
+.. image:: pictures/BasicMenu.png
+*makecode Basic menu*
 
-Let's go through this line-by-line::
+Drag it into ``forever`` loop in the work area like this:
 
-	while True:
+.. image:: pictures/firstProgram.png
+*Using the LEDs*
 
-This means do something (whatever follows this statement and is indented) forever and ever and ever. This is called  a loop, it's a bit like a video clip that's stuck on repeat.  ``True`` and ``False`` have a special meaning in python. ``True`` is always, well ``True``. The rest of the program is straightforward::
-
-	from microbit import *
-
-	while True:
-    	    display.show('Hello UCL!')
-            display.show(Image.BUTTERFLY)
-	    print('Hi There!!!')
-    	    sleep(2000)
-
-This displays ``Hello UCL`` on the LED display one character at a time and then shows the butterfly.
-The statement ``print('Hi There!!')``, will print the message in the REPL. Press the REPL button in the menu now to show the REPL window:
-
-
-.. image:: mu_repl_button.jpg
-   :scale: 60%
-   :align: center
-
-The REPL window shows us messages from the micro:bit and also allows us to send commands directly to the micro:bit. For now, we'll just be using the REPL to see messages that we print and error messages.
-
-You might be wondering why we've asked the
-micro:bit to sleep for ``2000``! This value is in microseconds so we've really only asked it to sleep for 2 seconds. That will give us enough time to see the image before the micro:bit starts all over again.
-
+What is happening here? Anything that you put in the ``forever`` loop will repeat over and over again.
 
 Upload the Code
 ----------------
-Final checks. Is your micro:bit connected to your computer? Yes? Then press the flash button:
-
-.. image:: mu_flash.jpg
-   :scale: 60%
-   :align: center
-
-You should see the message and the image displayed on the micro:bit and the message "Hello There!!" should be printed on the REPL.
-
-.. image:: mu_first_program_repl.jpg
-   :scale: 60%
-   :align: center
-
+Final checks. Is your micro:bit connected to your computer? Yes? Then press the ``Download`` button. Drag the file that's downloaded onto the micro:bit which will appear as a device in your File Explorer.
 
 Make a change
 -------------
-Change the text that is displayed on the screen and make it scroll across the LED display. You can do this by changing the word ``show`` to ``scroll``. Don't forget to save your program and remember to  ``flash`` the new code to the micro:bit.
-
-.. image:: high_five.png
-   :scale: 60%
-   :align: center
-
-You have written your first program. Carry on and see what else you can do with the micro:bit.
+What else can you do? Try it out. You have written your first program. Carry on and see what else you can do with the micro:bit.
