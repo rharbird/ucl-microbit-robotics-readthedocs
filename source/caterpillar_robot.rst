@@ -1,12 +1,23 @@
 *****************
-Caterpillar Robot
+Crawling Robot
 *****************
 
 Aims
 ----
-We’re going to build a crawling robot that’s inspired by a caterpillar but how does a caterpillar move? Take a look at these YouTube clips:
+We’re going to build a crawling robot that’s inspired by a snake or a caterpillar but how does a crawling animal move? Take a look at these YouTube clips:
 
 Click on the picture below:
+
+
+|SnakeImageLink|_
+
+.. |SnakeImageLink| image:: /pictures/Crotalus_cerastes_mesquite_springs_CA-2.jpg
+   :scale: 20 %
+
+*BBC How Snakes Move*
+
+.. _SnakeImageLink: https://www.youtube.com/watch?v=zEto1-ZTbd4
+
 
 |ImageLink|_
 
