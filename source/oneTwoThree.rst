@@ -8,7 +8,7 @@ Servos 1 and 2
 --------------
 So far your code just moves the motor plugged into slot 0 on the PWM board. You should add code to move the other two motors as well, like this:
 
-.. image:: pictures/123.png
+.. image:: pictures/allPause.png
   :scale: 60%
 
 You will notice that all of the motors are moving together at the same angle. This is progress but the caterpillar is not going to move very far!
