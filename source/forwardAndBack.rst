@@ -7,7 +7,7 @@ Well done, you have got the motor moving and you can see that it moves from 0° 
 -----------------------
 New code
 -----------------------
-We are going to move some of the code around using these two steps.
+We are going to move some of the code around using these steps.
 
 Step 1:
 ^^^^^^
@@ -19,7 +19,7 @@ Any code that you put in the ``forever`` loop will keep repeating over and over 
 
 Step 2:
 ^^^^^^
-Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give the motor a chance to move.
+Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give the motor a chance to move in response to the command from the micro:bit. You can see that we have added an extra pause of 180ms. This is because it will take the motor about 180 milliseconds to travel back from 180° to 0°.
 
 
 .. image:: pictures/pause.png

@@ -50,16 +50,19 @@ You should see a screen like the one below and you are now ready to make the mic
 
 .. image:: pictures/readyToCode.png
 *Microsoft makecode programming environment*
+  :scale: 60%
 
 Choose one or more of the blocks in the ``Basic`` menu by clicking on the menu.
 
 .. image:: pictures/BasicMenu.png
 *makecode Basic menu*
+  :scale: 60%
 
 Drag it into ``forever`` loop in the work area like this:
 
 .. image:: pictures/firstProgram.png
 *Using the LEDs*
+    :scale: 50%
 
 What is happening here? Anything that you put in the ``forever`` loop will repeat over and over again.
 
@@ -69,4 +72,4 @@ Final checks. Is your micro:bit connected to your computer? Yes? Then press the 
 
 Make a change
 -------------
-What else can you do? Try it out. You have written your first program. Carry on and see what else you can do with the micro:bit.
+What else can you do? Try it out. You have written your first program, carry on and see what else you can do with the micro:bit. There are lots more resources online.
