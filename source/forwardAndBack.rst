@@ -22,7 +22,7 @@ Step 2:
 Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give the motor a chance to move in response to the command from the micro:bit. You can see that we have added an extra pause of 180ms. This is because it will take the motor about 180 milliseconds to travel back from 180° to 0°.
 
 
-.. image:: pictures/pause.png
+.. image:: pictures/onePause.png
 
 
 Step 3:
