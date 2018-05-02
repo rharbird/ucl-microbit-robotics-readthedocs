@@ -14,7 +14,7 @@ Step 1:
 Any code that you put in the ``forever`` loop will keep repeating over and over as its name suggests. Move the code in the ``on button A pressed`` loop to the ``forever`` loop. Delete the ``on button A pressed`` loop. Your code should now look like this:
 
 .. image:: pictures/forever.png
-  :scale: 60%
+
 
 
 Step 2:
@@ -23,7 +23,7 @@ Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give th
 
 
 .. image:: pictures/pause.png
-  :scale: 60%
+
 
 Step 3:
 ^^^^^^
