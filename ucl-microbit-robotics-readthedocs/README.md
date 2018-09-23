@@ -3,8 +3,8 @@ These projects are designed to give students an introduction to robots which are
 
 The first project is a Caterpillar created from 3D printed parts and servo motors with the micro:bit driving the motors to create a crawling motion. It's a real challenge and students will enjoy finding out how to make the fastest, most effective robot.  
 
-Teaching students to code by using a microprocessor and embedded sensors on the board, is an approach inspired by Prof. Stephen Hailes at UCL. His team designed the Engduino, an Arduino board with sensors which was a forerunner of the BBC Micro:bit. 
+Teaching students to code by using a microprocessor and embedded sensors on the board, is an approach inspired by Prof. Stephen Hailes at UCL. His team designed the Engduino, an Arduino board with sensors which was a forerunner of the BBC Micro:bit.
 
 To download this documentation in pdf, epub or html format, click on the link at the bottom of the sidebar on the left.
 
-If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>. 
+If you would like to contribute to this documentation or create your own flavour, go ahead! Use git to fork the repository. The documentation is hosted on <a href="https://readthedocs.org">Read the Docs</a>.

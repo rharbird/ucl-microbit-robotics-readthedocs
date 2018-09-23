@@ -10,12 +10,19 @@ UCL's Micro:bit Robotics
 
 This project is designed to give students an introduction to robotics with a robot inspired by the natural world. There's no need to know how to code before diving in but we can assure you that once you have tried it, you won't want to stop. The project was designed by `Professor Stephen Hailes <http://www.cs.ucl.ac.uk/people/S.Hailes.html/>`_, a robotics expert and dedicated educator.
 
-The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_. In this guide we assume that you have already 3D printed and built your robot but if you are starting from scratch, take a look at Dr Gómez's instructions for making and building the units for the robot `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_ or `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_, you can use either design.
+The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by
+`Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_.
+In this guide we assume that you have already 3D printed and built your robot but if you are starting from scratch,
+take a look at Dr Gómez's instructions for making and building the units for the robot. The latest design is `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_
+You can also use the older design, found `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
 .. image:: pictures/wormy.jpg
   :scale: 40%
-
 *Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_
+
+> If you are building your own robots, you will need to set the angle of the
+> motors to 90 degrees when the robot is flat on the table.
+
 
 You will use the micro:bit to make the robot move. `Professor Stephen Hailes <http://www.cs.ucl.ac.uk/people/S.Hailes.html/>`_ has written a servo motor library for the micro:bit to make this easier.
 

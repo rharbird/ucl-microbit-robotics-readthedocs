@@ -61,7 +61,7 @@ blocks onto the main canvas.
 *makecode Basic menu*
 
 
-Place it into the ``forever`` loop in the work area like this:
+Place it into the ``forever`` loop like this:
 
 .. image:: pictures/firstProgram.png
     :scale: 50%
