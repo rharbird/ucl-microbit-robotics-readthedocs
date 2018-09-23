@@ -49,7 +49,7 @@ We will be programming the micro:bit using Microsoft's makecode programming envi
 You should see a screen like the one below and you are now ready to make the micro:bit, and eventally your robot, do something.
 
 .. image:: pictures/readyToCode.png
-  :scale: 60%
+  :scale: 20%
 *Microsoft makecode programming environment*
 
 
