@@ -53,24 +53,27 @@ You should see a screen like the one below and you are now ready to make the mic
 *Microsoft makecode programming environment*
 
 
-Choose one or more of the blocks in the ``Basic`` menu by clicking on the menu.
+Choose one or more of the blocks in the ``Basic`` menu by dragging one of the
+blocks onto the main canvas.
 
 .. image:: pictures/BasicMenu.png
   :scale: 60%
 *makecode Basic menu*
 
 
-Drag it into ``forever`` loop in the work area like this:
+Place it into the ``forever`` loop in the work area like this:
 
 .. image:: pictures/firstProgram.png
-*Using the LEDs*
     :scale: 50%
+*Using the LEDs*
 
-What is happening here? Anything that you put in the ``forever`` loop will repeat over and over again.
+What is happening here? Look at the simulator on the left hand side. Anything
+that you put in the ``forever`` loop will repeat over and over again.
 
 Upload the Code
 ----------------
-Final checks. Is your micro:bit connected to your computer? Yes? Then press the ``Download`` button. Drag the file that's downloaded onto the micro:bit which will appear as a device in your File Explorer.
+Final checks. Is your micro:bit connected to your computer? Yes? Then press the
+``Download`` button. Drag the file that's downloaded onto the micro:bit which will appear as a device in your File Explorer.
 
 Make a change
 -------------
