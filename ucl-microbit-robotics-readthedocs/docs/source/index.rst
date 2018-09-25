@@ -26,12 +26,13 @@ Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.
 Building Your Own Robots
 ------------------------
 If you are starting from scratch, take a look at Dr Gómez's instructions for
-making and building the units for the robot. The latest design is `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_
+making and building the units for the robot. The latest design is
+`here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_.
 You can also use the older design, found `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
 
-Note: If you are building your own robots, you will need to set the angle of the
-motors to 90 degrees when the robot is flat on the table.
+Note: You will need to set the angle of the motors to 90 degrees when the robot
+is flat on the table.
 
 
 ---------

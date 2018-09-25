@@ -1,9 +1,9 @@
 **********************
 Constructing the robot
 **********************
-The robot is made from parts designed by
-
-
+The robot is made from parts designed by Dr Gonzales-Gómez. Instructions for
+the latest design is `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_.
+You can also use the older design, `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
 Although the micro:bit can drive up to 3 servo motors, we have decided to use a second board to connect the MicroBit to the servos, for two reasons:
 
