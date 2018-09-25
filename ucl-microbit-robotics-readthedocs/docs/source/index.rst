@@ -20,7 +20,7 @@ In this guide we assume that you have already 3D printed and built your robots.
 
 .. image:: pictures/wormy.jpg
   :scale: 40%
-*Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_
+Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_
 
 ------------------------
 Building Your Own Robots

@@ -74,4 +74,5 @@ Final checks. Is your micro:bit connected to your computer? Yes? Then press the
 
 Make a change
 -------------
-What else can you do? Try it out. You have written your first program, carry on and see what else you can do with the micro:bit. There are lots more resources online.
+What else can you do? Try it out. You have written your first program, carry on
+and see what else you can do with the micro:bit. There are lots more resources online.
