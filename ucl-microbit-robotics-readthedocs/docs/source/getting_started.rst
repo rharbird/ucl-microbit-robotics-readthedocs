@@ -46,11 +46,10 @@ We will be programming the micro:bit using Microsoft's makecode programming envi
 .. image:: pictures/OpenPXT.png
   :scale: 60%
 
-You should see a screen like the one below and you are now ready to make the micro:bit, and eventally your robot, do something.
+You should see a screen like the one below and you are now ready to make the micro:bit, and eventually your robot, do something.
 
 .. image:: pictures/readyToCode.png
   :scale: 20%
-*Microsoft makecode programming environment*
 
 
 Choose one or more of the blocks in the ``Basic`` menu by dragging one of the
@@ -58,14 +57,12 @@ blocks onto the main canvas.
 
 .. image:: pictures/BasicMenu.png
   :scale: 60%
-*makecode Basic menu*
 
 
 Place it into the ``forever`` loop like this:
 
 .. image:: pictures/firstProgram.png
     :scale: 50%
-*Using the LEDs*
 
 What is happening here? Look at the simulator on the left hand side. Anything
 that you put in the ``forever`` loop will repeat over and over again.
