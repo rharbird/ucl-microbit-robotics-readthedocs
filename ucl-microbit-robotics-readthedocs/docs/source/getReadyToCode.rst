@@ -13,4 +13,4 @@ When you see the screen below, press the ``Edit`` button.
 You should see a screen like the one below and you are now ready to make the micro:bit, and your robot, do something.
 
 .. image:: pictures/readyToCode.png
-  :scale: 60%
+  :scale: 20%
