@@ -16,7 +16,6 @@ You will use the micro:bit to make the robot move. `Professor Stephen Hailes <ht
 
 The robot is a caterpillar (or maybe a snake, depending on the motion style) which was designed by
 `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_.
-In this guide we assume that you have already 3D printed and built your robots.
 
 .. image:: pictures/wormy.jpg
   :scale: 40%
@@ -25,14 +24,10 @@ Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.
 ------------------------
 Building Your Own Robots
 ------------------------
-If you are starting from scratch, take a look at Dr Gómez's instructions for
-making and building the units for the robot. The latest design is
-`here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_.
+Take a look at Dr Gómez's instructions for making and building the units for the robot. The latest design is `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_.
 You can also use the older design, found `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
-
-Note: You will need to set the angle of the motors to 90 degrees when the robot
-is flat on the table.
+_Note_: when the robot is flat on the table the servo motors should be set to 90 degrees. You will need to set the motors to a 90 degree angle before attaching the units together.
 
 
 ---------
