@@ -9,7 +9,7 @@ the possibilities are endless. There are a myriad of features that you can use i
  * Two programmable buttons (A and B) that can be used to tell the micro:bit when to start and stop things.
  * A thermistor to measure the temperature.
  * A light sensor to measure the change in light.
- * An accelerometer to detect motion.
+ * An accelerometer to detect motion. 
  * A magnetometer to tell you which direction you’re heading in.
  * A radio and a Bluetooth Low Energy connection to interact with other devices.
 
