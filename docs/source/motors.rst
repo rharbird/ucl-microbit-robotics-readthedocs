@@ -30,6 +30,8 @@ will move the rotor to 180°.
 
 .. image:: pictures/PWM.jpg
   :scale: 60 %
-*The length of the electical pulse determines the rotor position.*
+*The length of the electrical pulse determines the rotor position.*
 
 In the next section, we'll learn how to connect the motors to the micro:bit.
+
+If you want to learn more about using motors with the micro:bit you can watch this `video clip <https://youtu.be/okxooamdAP4 video>`_.
