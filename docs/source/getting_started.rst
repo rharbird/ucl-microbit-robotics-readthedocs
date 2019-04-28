@@ -23,17 +23,22 @@ Let's create your first micro:bit program; after that, it's really up to you to 
 Your First Program
 ===================
 
-Go to the micro:bit code editor here: `https://makecode.microbit.org <https://makecode.microbit.org/`_
+Go to the micro:bit code editor here: `https://makecode.microbit.org <https://makecode.microbit.org/`_, the homepage should look similar to the picture here, click through on the Flashing Heart tutorial:
+
+.. image:: pictures/makecode_homepage.jpg
+   :scale: 60%
+   :align: center
+
+Can you make a change to your code? How about making the micro:bit display: "Hello <Your name>"? When you've done that, find out what happens when you put the code in the start block instead of the forever block like this:
+
+.. image:: pictures/hello_start_block.jpg
+   :scale: 60%
+   :align: center
+
+Well done, you have written your first programs. Carry on and see what else you can do; try some of the other projects and search for others online.
 
 Coding using the micro:bit is composed of these 4 steps. You can expect to go around the loop  quite a few times before you get your code working.
 
 .. image:: pictures/microbit_lifecycle_typescript.jpg
    :scale: 60%
    :align: center
-
-
-
-Make a change
--------------
-You have written your first program, carry on
-and see what else you can do with the micro:bit. There are lots more resources online.
