@@ -23,15 +23,15 @@ Let's create your first micro:bit program; after that, it's really up to you to 
 Your First Program
 ===================
 
-Go to the micro:bit code editor here: 'https://makecode.microbit.org <https://makecode.microbit.org/'_, the homepage should look similar to the picture here, click through on the Flashing Heart tutorial:
+Go to the micro:bit code editor here: `https://makecode.microbit.org <https://makecode.microbit.org>`_, the homepage should look similar to the picture here, click through on the Flashing Heart tutorial:
 
-.. image:: pictures/makecode_homepage.jpg
+.. image:: pictures/makecode_homepage.png
    :scale: 60%
    :align: center
 
 Can you make a change to your code? How about making the micro:bit display: "Hello <Your name>"? When you've done that, find out what happens when you put the code in the start block instead of the forever block like this:
 
-.. image:: pictures/hello_start_block.jpg
+.. image:: pictures/hello_start_block.png
    :scale: 60%
    :align: center
 
