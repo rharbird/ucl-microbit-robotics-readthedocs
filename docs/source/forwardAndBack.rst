@@ -16,7 +16,7 @@ We are going to move some of the code around. Any code that you put in the ``for
 Your code should now look like this:
 
 .. image:: pictures/forever.png
-
+  :scale: 50%
 
 -----------------------
 Experiment
