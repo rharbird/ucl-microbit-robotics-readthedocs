@@ -4,7 +4,7 @@ Crawling Robot
 
 Aims
 ----
-We’re going to build a crawling robot that’s inspired by a snake or a caterpillar but how does a crawling animal move? Click on the pictures below to view some video clips:
+We’re going to build a crawling robot that’s inspired by a snake or a caterpillar but how does a crawling animal move? Click on the pictures below to view the video clips:
 
 |SnakeImageLink|_
 
