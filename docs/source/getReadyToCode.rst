@@ -7,10 +7,10 @@ URL: `http://tiny.cc/mbit-servos <https://makecode.microbit.org/_DRA1LLC35E50>`_
 
 When you see the screen below, press the ``Edit`` button.
 
-.. image:: pictures/OpenPXT.png
+.. image:: pictures/OpenPXT.jpg
   :scale: 60%
 
 You should see a screen like the one below and you are now ready to make the micro:bit, and your robot, do something.
 
-.. image:: pictures/readyToCode.png
-  :scale: 20%
+.. image:: pictures/readyToCode.jpg
+  :scale: 30%

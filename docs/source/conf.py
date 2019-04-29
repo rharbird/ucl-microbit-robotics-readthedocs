@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'UCL Micro:bit Robotics'
-copyright = '2018, Stephen Hailes, Rae Harbird'
+copyright = '2019, Stephen Hailes, Rae Harbird'
 author = 'Professor Stephen Hailes, Rae Harbird'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -152,7 +152,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'UCLMicrobitRobotics', 'UCL Micro:bit Robotics Documentation',
-     author, 'UCLMicrobitRobotics', 'One line description of project.',
+     author, 'UCLMicrobitRobotics', 'Bioinspired project for schools using the micro:bit and 3D printed parts.',
      'Miscellaneous'),
 ]
 

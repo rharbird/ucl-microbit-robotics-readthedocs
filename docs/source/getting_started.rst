@@ -23,7 +23,7 @@ Let's create your first micro:bit program; after that, it's really up to you to 
 Your First Program
 ===================
 
-Go to the micro:bit code editor here: `https://makecode.microbit.org <https://makecode.microbit.org>`_, the homepage should look similar to the picture here, click through on the Flashing Heart tutorial:
+Go to the micro:bit code editor here: `https://makecode.microbit.org <https://makecode.microbit.org>`_, the homepage should look similar to the picture here, click through on and complete the Flashing Heart tutorial:
 
 .. image:: pictures/makecode_homepage.png
    :scale: 30%
