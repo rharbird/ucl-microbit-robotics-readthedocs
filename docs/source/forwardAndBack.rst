@@ -7,24 +7,18 @@ Well done, you have got the motor moving and you can see that it moves from 0° 
 -----------------------
 New code
 -----------------------
-We are going to move some of the code around using these steps.
+We are going to move some of the code around. Any code that you put in the ``forever`` loop will keep repeating over and over as its name suggests. Change your code as follows:
+1. Move the code in the ``on button A pressed`` loop to the ``forever`` loop.
+2. Delete the ``on button A pressed`` loop.
+3. Add a pause of 180 milliseconds after the ``angle`` variable has been reset to 0. This is so that the micro:bit will wait for the motor to move to angle 0° before moving it again.
+3. Add another 10 ms pause so that the micro:bit will wait for the servo motor to move each time around the ``forever`` loop.
 
-Step 1:
-^^^^^^
-Any code that you put in the ``forever`` loop will keep repeating over and over as its name suggests. Move the code in the ``on button A pressed`` loop to the ``forever`` loop. Delete the ``on button A pressed`` loop. Your code should now look like this:
+Your code should now look like this:
 
 .. image:: pictures/forever.png
 
 
-
-Step 2:
-^^^^^^
-Now add a pause of 20 milliseconds at the end of the ``forever`` loop to give the motor a chance to move in response to the command from the micro:bit. You can see that we have added an extra pause of 180ms. This is because it will take the motor about 180 milliseconds to travel back from 180° to 0°.
-
-
-.. image:: pictures/onePause.png
-
-
-Step 3:
-^^^^^^
+-----------------------
+Experiment
+-----------------------
 Try the program out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the outcome.
