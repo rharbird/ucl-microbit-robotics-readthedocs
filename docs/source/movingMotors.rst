@@ -27,5 +27,10 @@ Now you can add the rest of the code to change the angle of the motor.
 
 .. image:: pictures/buttonMove.png
   :scale: 50%
-  
+
 What happens when the angle reaches 180°? Try it out.
+
+If we are going to make the robot crawl we need to make the motor move independently. To do this, move the code that makes the motor move to the ``forever`` block like this:
+
+.. image:: pictures/motorMove.png
+  :scale: 50%
