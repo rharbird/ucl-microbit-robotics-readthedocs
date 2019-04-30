@@ -27,8 +27,8 @@ Building Your Own Robots
 Take a look at Dr Gómez's instructions for making and building the units for the robot. The latest design is `here <http://www.iearobotics.com/wiki/index.php?title=Módulos_REPYZ>`_.
 You can also use the older design, found `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
-__Note__: when the robot is flat on the table the servo motors should be set to 90 degrees. You will need to set the motors to a 90 degree angle before attaching the units together.
-
+Note: when the robot is flat on the table the servo motors should be set to 90 degrees. You will need to set the motors to a 90 degree angle before attaching the units together.
+^^^^
 
 ---------
 Contents
