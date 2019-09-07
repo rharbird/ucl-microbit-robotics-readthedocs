@@ -26,4 +26,4 @@ Your code should now look like this:
 -----------------------
 Experiment
 -----------------------
-Try the program out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the outcome.
+Try the program out. Upload your code to the micro:bit. Did it work? Keep experimenting until you are satisfied with the outcome. Remember that when your robot is lying flat on the table, the motors are set to 90°.
