@@ -21,3 +21,4 @@ Note: the Math.sin() function requires that the number of degrees is expressed a
 * The __90 +__ is the centre position position of the movement. The servo moves equally either side of that centre. You could choose to centre the movement in a different place. If this was say, 100 and the amplitude was 40 then the servo would move between 60° and 140°.
 
 Congratulations! You made an oscillator. The nice thing about sinusoidal oscillators is that putting things out of phase is easy. Say you wanted two sine waves 90° out of phase then set:``angle1`` = sin(t) and ``angle2`` = sin(t + 90)
+Blah
