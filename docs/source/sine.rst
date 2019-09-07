@@ -4,16 +4,16 @@ Doing it as a sine wave
 This is an extension activity.
 
 As it happens, many things in biology happen like sine waves. That's true for this kind of movement - what we'd like to see is the following:
+
 .. image:: pictures/sineMotors.png
   :scale: 50%
 
 What this means is the change in angle is slower the closer you get to 180 and to 0. So it starts slowly, then gets faster, then slows down, changes direction, and so on.
 
 The function for the angle is:
+$angle = 90 + 90 * Math.sin(2 * PI * running_time / 4000)$
 
-angle = 90 + 90 * Math.sin(2 * PI * running_time / 4000)
-
-Note: the Math.sin() function requires the number of degrees expressed as radians. 360° is 2 * PI radians.
+Note: the Math.sin() function requires that the number of degrees is expressed as radians. 360° is 2 * PI radians.
 
 * ``running_time`` is the amount of time since the micro:bit was turned on in ms.
 * The 4000ms is the amount of time it takes to go from angle 0° back to 0° again. Make this number bigger to go slower.
