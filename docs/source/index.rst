@@ -28,6 +28,9 @@ Take a look at Dr Gómez's instructions for making and building the units for th
 You can also use the older design, found `here <http://www.iearobotics.com/wiki/index.php?title=M%C3%B3dulos_REPY-1>`_.
 
 *Note:* When the robot is flat on the table the servo motors should be set to 90 degrees. You will need to set the motors to a 90 degree angle before attaching the units together.
+.. image:: pictures/Motor_orientation.jpg
+  :scale: 40%
+Caterpillar robot designed by `Dr Juan González-Gómez <http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main>`_
 
 
 ---------
