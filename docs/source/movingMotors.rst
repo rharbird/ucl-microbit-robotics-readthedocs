@@ -6,7 +6,7 @@ Set up the motors
 -----------------
 Click on the ``ServoBoard`` menu so that you can see the blocks.
 
-.. image:: pictures/ServoBoardBlocks.png
+.. image:: pictures/servoBoardBlocks.png
   :scale: 50%
 
 Now drag out the blocks that will set up the motors and place them in the ``on start`` block so that your code looks like this:
